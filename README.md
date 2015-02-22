@@ -1,5 +1,5 @@
-## Operating Systems 200 Assignment
+# Operating Systems 200 Assignment
 
-#Round Robin and SOrtest Job First Simulator
+##Round Robin and Shortest Job First Simulator
 
 
